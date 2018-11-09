@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Day1031_SpringData" />
+        <module name="Day1101_SpringData" />
+        <module name="Day1103_Spring_date" />
+        <module name="Day1103_Spring_date -many2Many" />
+        <module name="Day1103_Spring_date -One2Many" />
+        <module name="Day1104_SpriBoot_01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Day1031_SpringData" target="1.5" />
+      <module name="Day1101_SpringData" target="1.5" />
+      <module name="Day1103_Spring_date" target="1.5" />
+      <module name="Day1103_Spring_date -many2Many" target="1.5" />
+      <module name="Day1103_Spring_date -One2Many" target="1.5" />
+      <module name="Day1104_SpriBoot_01" target="1.8" />
+      <module name="day1104_springboot_01" target="1.8" />
+      <module name="springboot_quick2" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
